@@ -1,0 +1,17 @@
+C:\Users\congk\source\repos\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\net6.0-windows\QuanLyCuaHangSach.csproj.AssemblyReference.cache
+C:\Users\congk\source\repos\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\net6.0-windows\QuanLyCuaHangSach.Form1.resources
+C:\Users\congk\source\repos\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\net6.0-windows\QuanLyCuaHangSach.csproj.GenerateResource.cache
+C:\Users\congk\source\repos\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\net6.0-windows\QuanLyCuaHangSach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\congk\source\repos\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\net6.0-windows\QuanLyCuaHangSach.AssemblyInfoInputs.cache
+C:\Users\congk\source\repos\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\net6.0-windows\QuanLyCuaHangSach.AssemblyInfo.cs
+C:\Users\congk\source\repos\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\net6.0-windows\QuanLyCuaHangSach.csproj.CoreCompileInputs.cache
+C:\Users\congk\source\repos\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\net6.0-windows\QuanLyCuaHangSach.exe
+C:\Users\congk\source\repos\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\net6.0-windows\QuanLyCuaHangSach.deps.json
+C:\Users\congk\source\repos\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\net6.0-windows\QuanLyCuaHangSach.runtimeconfig.json
+C:\Users\congk\source\repos\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\net6.0-windows\QuanLyCuaHangSach.dll
+C:\Users\congk\source\repos\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\net6.0-windows\QuanLyCuaHangSach.pdb
+C:\Users\congk\source\repos\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\net6.0-windows\QuanLyCuaHangSach.dll
+C:\Users\congk\source\repos\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\net6.0-windows\refint\QuanLyCuaHangSach.dll
+C:\Users\congk\source\repos\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\net6.0-windows\QuanLyCuaHangSach.pdb
+C:\Users\congk\source\repos\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\net6.0-windows\QuanLyCuaHangSach.genruntimeconfig.cache
+C:\Users\congk\source\repos\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\net6.0-windows\ref\QuanLyCuaHangSach.dll
